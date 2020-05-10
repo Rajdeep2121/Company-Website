@@ -1,0 +1,55 @@
+Good Morning !
+Below is the task :
+You are suppose to create 3 Web Pages by assuming that you are creating a website for the company providing some specific services & products, where the business will showcase their services and products and in same website the employees can login and do their own regular operations related to job :
+
+1. Home Page : 
+- Header (with logo and name of company)
+- Menu bar of 6 Menus (About Us, Why We ?, Products, Services, Blogs (About various customer feedback / related to the service /product a company is serving with), Contact Us)
+- At right most corner there will be login page
+- Below Menu Bar at right side one notification bar
+- Below Menu Bar at Center of Web Page, there will be a slideshow of more than 5 images (with 3 Seconds gap for each image)
+- At bottom of page above footer there will be a form, where 3 fields ( Name, Contact Number and Message / Feedback ) will be filled up and after submitting, the data will be emailed to a specific e-mail / any other way to store the entered feedback.
+
+
+
+
+2. Login Page :
+- After clicking on above Home Page Login Button this page will open.
+- There should be complete validation about email ID and password.
+- Store the username and password (dummy) in the database and if, valid / matched, then it will go to Dashboard / My Account page of the user.
+
+
+
+3. Dashboard / My Account Page :
+- Personal Details of Employee (Name, Post, Employee ID, etc.)
+- At the right side there will be some options in vertical bar including current salary, due holidays in month, pending tasks, completed tasks, etc.
+Here, task is the assigned project to the employee.
+
+- At the center (major part of webpage), some auto-generated reports will be there (At least 3) of the current month growth related to that employees team performance, individual performance and overall growth of the assigned project's growth.
+The numbers and parameters you can take imaginary and there should be some input field on same web page, if, we will enter some other number in the parameters for the specific graph, then dynamically it should change the graph in run-time.
+Any of these or all 3 graphs should be downloaded as PDF/PNG/JPG/JPEG (at least in 1 of these formats)
+12:00 PM
+You can use your own design, pattern, structure, colors, fonts, extra additional designs and buttons to give your best.
+Just remember to get the above mentioned above 3 Web Pages and their description as mentioned above. You can add other things also as per your choice and to show your skills.
+You can use dummy / demo / trial text and images for best projection and real-time view of the web pages.
+Deadline : 11 AM, 02 May 2020 (It will not be extended further and only tasks received before mentioned time and date will be evaluated and taken into consideration for further selection of your internship.)
+Rules :
+1. It should be completely created / developed of you only (as an individual)
+2. No copy / previous work codes/ templates are allowed.
+3. Any comfortable language / platform is allowed like, HTML, CSS, JS, PHP, etc.
+4. MySQL or any other database is allowed.
+5. While reporting the completed task you are suppose to show each and every detail in the recording & screenshots. If necessary, then we may need to see your code, the way you did it.
+
+Note : Your Web Development efficiency, Front-End, Design, Easy Operations, Smooth and efficient UI.
+
+Regards,
+SankalpSoft Solutions
+
+
+
+
+We are expecting genuine and your own creation in this task.
+This task is completely individual based.
+Deadline will also be there and will be informed to you till tomorrow along with the details of the task.
+How to report ?
+Simply record your screen after developing the website / webpages with all the operations you did in the task (as per given description) and store the video along with screenshot of every page and database screenshots in your Google Drive Folder and send the link of Google Drive Folder here (On Internshala Chat).
